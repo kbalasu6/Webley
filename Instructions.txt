@@ -1,0 +1,22 @@
+Before running, make sure that the system has Java version 8. If not, download the latest version from 
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+Once Java and JDK is installed, place the Webley.jar in your local machine.
+
+Open the Terminal/Command Prompt in your local machine.
+
+Copy and paste the following command or type :
+java -jar Webley.jar
+
+The Program asks you to enter the path to the Data File. Make sure to enter the Absolute path.
+
+The program then calculates the combinations and prompts the user to select one among the following choices:
+Select 1 to view Prices.
+Select 2 to view Items.
+Select q to Quit.
+
+User can then select 1 to view the combination of prices that add up to the Target price.
+
+User can select 2 to view the combination of Dishes(Items) that add up to the Target price.
+
+User can select q or Q to quit the program.
